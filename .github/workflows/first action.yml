@@ -1,0 +1,7 @@
+name: Build c++
+
+on: 
+ push:
+   branches: [main]
+  pull:
+   branches: [main]
